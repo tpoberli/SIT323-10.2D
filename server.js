@@ -8,7 +8,7 @@ const HOST = '0.0.0.0';
 
 // Home page request
 app.get('/', (req, res) => {        
-  res.send("I Made Code Changes");
+  res.send("Old Version");
 }); 
 
 // Start an instance of our Express server, listening on port 3000
