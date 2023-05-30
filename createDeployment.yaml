@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: mynode
-        image: gcr.io/image.png/web-app:latest
+        image: gcr.io/sit323-23t1-oberli-bb88b7a/web-app:latest
         ports:
         - containerPort: 8080
